@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "rEQhFkeLTWdzelKjYFhMWPNhJrHOi1KUsueGSI851XnL9tlcToz/Uminr8ex8pU7U6gOxMkNmvePrO+FmPpvbw==",
+  "dgSpecHash": "kqXH1wUSAUMf/ONbicWnJrkVC2dkPO9rGKV1WtQlx/v701dso7s1JAu/BVPWA/FoHvz3QSjvFr10DzE70WKCKg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\romo1\\Downloads\\SportsStore-Administration\\SportsStore-Administration\\SportsStore\\SportsStore.csproj",
+  "projectFilePath": "C:\\Users\\romo1\\OneDrive\\Documents\\GitHub\\TitlesBranch3\\SummerCookout\\SportsStore\\SportsStore.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\romo1\\.nuget\\packages\\microsoft.aspnet.webapi.client\\5.2.6\\microsoft.aspnet.webapi.client.5.2.6.nupkg.sha512",
     "C:\\Users\\romo1\\.nuget\\packages\\microsoft.aspnetcore\\2.1.1\\microsoft.aspnetcore.2.1.1.nupkg.sha512",

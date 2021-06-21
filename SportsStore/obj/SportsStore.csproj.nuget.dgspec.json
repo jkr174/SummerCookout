@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\romo1\\Downloads\\SportsStore-Administration\\SportsStore-Administration\\SportsStore\\SportsStore.csproj": {}
+    "C:\\Users\\romo1\\OneDrive\\Documents\\GitHub\\TitlesBranch3\\SummerCookout\\SportsStore\\SportsStore.csproj": {}
   },
   "projects": {
-    "C:\\Users\\romo1\\Downloads\\SportsStore-Administration\\SportsStore-Administration\\SportsStore\\SportsStore.csproj": {
+    "C:\\Users\\romo1\\OneDrive\\Documents\\GitHub\\TitlesBranch3\\SummerCookout\\SportsStore\\SportsStore.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\romo1\\Downloads\\SportsStore-Administration\\SportsStore-Administration\\SportsStore\\SportsStore.csproj",
+        "projectUniqueName": "C:\\Users\\romo1\\OneDrive\\Documents\\GitHub\\TitlesBranch3\\SummerCookout\\SportsStore\\SportsStore.csproj",
         "projectName": "SportsStore",
-        "projectPath": "C:\\Users\\romo1\\Downloads\\SportsStore-Administration\\SportsStore-Administration\\SportsStore\\SportsStore.csproj",
+        "projectPath": "C:\\Users\\romo1\\OneDrive\\Documents\\GitHub\\TitlesBranch3\\SummerCookout\\SportsStore\\SportsStore.csproj",
         "packagesPath": "C:\\Users\\romo1\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\romo1\\Downloads\\SportsStore-Administration\\SportsStore-Administration\\SportsStore\\obj\\",
+        "outputPath": "C:\\Users\\romo1\\OneDrive\\Documents\\GitHub\\TitlesBranch3\\SummerCookout\\SportsStore\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
